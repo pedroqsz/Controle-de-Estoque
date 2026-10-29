@@ -1,6 +1,7 @@
 # Projeto C — Controle de Estoque
 
-**Aluno:** (Pedro Queiroz de Souza)
+**Aluno:** Pedro Queiroz de Souza
+
 **Projeto escolhido:** C — Controle de Estoque
 
 Pequena aplicação para uma loja controlar quantos produtos tem e quanto vale o estoque. Feita com Next.js, TypeScript, CSS puro, Drizzle e Neon, sem autenticação.
